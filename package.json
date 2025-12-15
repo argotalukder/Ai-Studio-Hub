@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://argotalukder.github.io/Ai-Studio-Hub/", // এই লাইনটি যোগ করা হলো
   "scripts": {
     "dev": "vite",
     "build": "vite build",
