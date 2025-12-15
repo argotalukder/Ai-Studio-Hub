@@ -1,0 +1,9 @@
+{
+  "name": "RecruitAI Sandbox",
+  "description": "A comprehensive recruitment toolkit powered by Gemini. Generate Job Descriptions, Interview Guides, analyze candidate media, and create recruitment videos.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
